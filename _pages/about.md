@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology'>UCL Department of Neuroscience, Physiology and Pharmacology</a>
+subtitle: <a href='https://www.ucl.ac.uk/ion/research/research-departments/department-clinical-and-experimental-epilepsy'>UCL Department of Clinical and Experimental Epilepsy</a>
 
 profile:
   align: right
