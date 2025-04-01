@@ -1,5 +1,5 @@
 title: Vivekananda lab
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+description: Computational Neurophysiology in Epilepsy
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
